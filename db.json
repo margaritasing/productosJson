@@ -1,7 +1,7 @@
 {
     "response": [{
             "_id": "5f205432bf2ede0017e48508",
-            "nombre": "Crédito Bancario o Línea de Crédito",
+            "nombre": "Crédito Bancario",
             "descripcion": "Mediante este contrato el cliente tiene disponible un importe predeterminado y durante un periodo de tiempo.",
             "precio": 100,
             "cantidad": "Ilimitado",
@@ -41,7 +41,7 @@
 
         {
             "_id": "5f205469bf2ede0017e4850c",
-            "nombre": "Depósito Bancario o Imposición a plazo fijo (IPF)",
+            "nombre": "Imposición a plazo fijo",
             "descripcion": "Es aquel contrato financiero por el cual la banca recibe dinero que integra en su patrimonio y que aplica por cuenta propia.",
             "precio": 500,
             "cantidad": "Ilimitado",
@@ -92,7 +92,7 @@
         {
             "_id": "5f20f54c54c7bc0017856c81",
             "nombre": "Cuenta de ahorro",
-            "descripcion": "Este tipo de depósito, a diferencia de la cuenta corriente, genera una rentabilidad si no se retiran los fondos durante un periodo de tiempo.",
+            "descripcion": "Este tipo de depósito,genera una rentabilidad si no se retiran los fondos durante un periodo de tiempo.",
             "precio": 500,
             "cantidad": "1",
             "imagen": "https://imagenes.lainformacion.com/files/image_656_370/uploads/imagenes/2021/02/25/ahorro-dinero-dinero-trucos-ahorrar.png",
@@ -103,7 +103,7 @@
         {
             "_id": "5f20f54c54c7bc0017856c82",
             "nombre": "Tarjeta de Debito",
-            "descripcion": "Son las tarjetas en las que el pago se carga inmediatamente en la cuenta. Si no hay fondos en la cuenta, el pago no va a ser posible.",
+            "descripcion": "Son las tarjetas en las que el pago se carga inmediatamente en la cuenta.",
             "precio": 250,
             "cantidad": "1",
             "imagen": "https://st3.depositphotos.com/1020804/16713/i/600/depositphotos_167136004-stock-photo-credit-cards-businnes-background.jpg",
@@ -135,7 +135,7 @@
 
         {
             "_id": "5f20f54c54c7bc0017856c85",
-            "nombre": "Certificado de Depósito a Término (CDT) ",
+            "nombre": "Certificado de Depósito",
             "descripcion": " Es la más común de las inversiones, en donde usted entrega sus recursos ahorrados al banco.",
             "precio": 350,
             "cantidad": "Ilimitado",
